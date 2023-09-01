@@ -14,24 +14,21 @@
 
 ### 🛠️ Projects
 
-#### Project Name 1
-Brief description of the project, your role, and the technologies/tools used.
+[//]: # (#### Project Name 1)
 
-Repository: [Project 1](https://github.com/tharindushakya/project1)
+[//]: # (Brief description of the project, your role, and the technologies/tools used.)
 
-#### Project Name 2
-Brief description of the project, your role, and the technologies/tools used.
+[//]: # (Repository: [Project 1]https://github.com/tharindushakya/project1)
 
-Repository: [Project 2](https://github.com/tharindushakya/project2)
 
 ### 📚 Certifications
 
-- 
+[//]: # (-)
 
 ### 📢 Talks and Presentations
 
-- "Best Practices in Web Application Security" - Cybersecurity Conference 2022
-  - Slides: [Link](https://slideshare.net/TharinduShakya1/)
+[//]: # ( "Best Practices in Web Application Security" - Cybersecurity Conference 2022)
+[//]: # (  - Slides: Linkhttps://slideshare.net/TharinduShakya1/)
 
 ### 🌐 Connect with Me
 
