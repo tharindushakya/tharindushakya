@@ -11,6 +11,7 @@
 - Incident Response
 - Penetration Testing
 - Security Tools: Wireshark, Nmap, Burp Suite, Metasploit
+- C++ Dev
 
 ### 🛠️ Projects
 
