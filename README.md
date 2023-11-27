@@ -35,7 +35,7 @@
 
 - LinkedIn: [TharinduShakya](https://www.linkedin.com/in/tharindu-shakya-93775318b)
 - Twitter: [@Wtshakya](https://twitter.com/@wtshakya)
-- Blog: [Tharindu Shakya](https://tharindushakya.com)
+- Blog: [Tharindu Shakya](tharinduwarnapura.com)
 
 ### 🤝 Open to Collaborations
 
