@@ -1,4 +1,6 @@
 # Tharindu Shakya
+![notion avatar](https://notion-avatar.vercel.app/api/img/eyJmYWNlIjoxMywibm9zZSI6MTMsIm1vdXRoIjowLCJleWVzIjo1LCJleWVicm93cyI6MTUsImdsYXNzZXMiOjAsImhhaXIiOjUsImFjY2Vzc29yaWVzIjowLCJkZXRhaWxzIjowLCJiZWFyZCI6MTIsImZsaXAiOjAsImNvbG9yIjoiI2JmYmZiZiIsInNoYXBlIjoibm9uZSJ9)
+
 ## Junior Information Security Analyst
 
 🔒 Cybersecurity Undergraduate passionate about securing digital landscapes and defending against cyber threats. Adept at identifying vulnerabilities, implementing robust security solutions, and contributing to open-source cybersecurity projects. 
