@@ -1,5 +1,7 @@
 # Tharindu Shakya
 ![notion avatar](https://notion-avatar.vercel.app/api/img/eyJmYWNlIjoxMywibm9zZSI6MTMsIm1vdXRoIjowLCJleWVzIjo1LCJleWVicm93cyI6MTUsImdsYXNzZXMiOjAsImhhaXIiOjUsImFjY2Vzc29yaWVzIjowLCJkZXRhaWxzIjowLCJiZWFyZCI6MTIsImZsaXAiOjAsImNvbG9yIjoiI2JmYmZiZiIsInNoYXBlIjoibm9uZSJ9)
+![notion avatar](https://notion-avatar.vercel.app/api/img/eyJmYWNlIjowLCJub3NlIjoxMywibW91dGgiOjE5LCJleWVzIjo5LCJleWVicm93cyI6MTMsImdsYXNzZXMiOjIsImhhaXIiOjQ3LCJhY2Nlc3NvcmllcyI6MCwiZGV0YWlscyI6MCwiYmVhcmQiOjAsImZsaXAiOjAsImNvbG9yIjoiIzAwMDAwMCIsInNoYXBlIjoibm9uZSJ9)
+
 
 ## Junior Information Security Analyst
 
