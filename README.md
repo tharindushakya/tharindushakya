@@ -15,7 +15,7 @@
 - Security Tools: Wireshark, Nmap, Burp Suite, Metasploit
 - C++ Dev
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/65621cef5145316d256f1447?variant=dark&roadmaps=cyber-security%2Ccpp%2Cpostgresql-dba%2Csoftware-architect)](https://roadmap.sh)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/65621cef5145316d256f1447?variant=dark&roadmaps=cpp%2Cgolang%2Ccyber-security)](https://roadmap.sh)
 
 ### 🛠️ Projects
 
