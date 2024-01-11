@@ -42,7 +42,7 @@
 - Developing Languages (C | C++)
 
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/65621cef5145316d256f1447?variant=dark&roadmaps=cpp%2Cgolang%2Ccyber-security)](https://roadmap.sh)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/65621cef5145316d256f1447?variant=dark&roadmaps=cpp%2Cpython%2Ccyber-security)](https://roadmap.sh)
 
 ### 🛠️ Projects
 
