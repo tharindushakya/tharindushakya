@@ -1,19 +1,35 @@
 # Tharindu Shakya
 [//]: # (![notion avatar] https://notion-avatar.vercel.app/api/img/eyJmYWNlIjoxMywibm9zZSI6MTMsIm1vdXRoIjowLCJleWVzIjo1LCJleWVicm93cyI6MTUsImdsYXNzZXMiOjAsImhhaXIiOjUsImFjY2Vzc29yaWVzIjowLCJkZXRhaWxzIjowLCJiZWFyZCI6MTIsImZsaXAiOjAsImNvbG9yIjoiI2JmYmZiZiIsInNoYXBlIjoibm9uZSJ9)
 
-## Junior Information Security Analyst
+## Trainee Information Security Analyst
 
 🔒 Cybersecurity Undergraduate passionate about securing digital landscapes and defending against cyber threats. Adept at identifying vulnerabilities, implementing robust security solutions, and contributing to open-source cybersecurity projects. 
 
 ### 🔑 Key Skills
+Infrastructure
 
+- Cloud Providers (Azure)
+- DevOps Tools (Ansible)
+- Enterprise Services (Database | DNS | SMTP | Web)
+- Hypervisors (ESXi | VirtualBox)
+- Identity Providers (Active Directory | Azure Active Directory)
+- IP Masking (Proxies | Tor | VPN)
+- Protocol Analysis (WireShark)
+- Operating Systems (Windows | Linux)
+- Server Operating Systems (BSD | Linux | Windows)
+- Desktop Operating Systems (Linux | Mac OS | Windows)
+- Programming (C++)
+- Scripting Languages (Bash | PowerShell | Python)
+- Ethical Hacking
+- Firewalls (pfSense | Windows Firewall)
+- Incident Response and Remediation
+- Intrusion Detection Systems (Snort)
+- Security Assessment Tools (Burp Suite | Kali Linux | Metasploit | Nmap | Nessus)
 - Network Security
 - Web Application Security
 - Threat Detection and Mitigation
-- Incident Response
 - Penetration Testing
-- Security Tools: Wireshark, Nmap, Burp Suite, Metasploit
-- C++ Dev
+
 
 ### 🛠️ Projects
 
