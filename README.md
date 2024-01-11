@@ -1,25 +1,15 @@
 # Tharindu Shakya
-[//]: # (![notion avatar] https://notion-avatar.vercel.app/api/img/eyJmYWNlIjoxMywibm9zZSI6MTMsIm1vdXRoIjowLCJleWVzIjo1LCJleWVicm93cyI6MTUsImdsYXNzZXMiOjAsImhhaXIiOjUsImFjY2Vzc29yaWVzIjowLCJkZXRhaWxzIjowLCJiZWFyZCI6MTIsImZsaXAiOjAsImNvbG9yIjoiI2JmYmZiZiIsInNoYXBlIjoibm9uZSJ9)
+
+[![notion avatar](https://notion-avatar.vercel.app/api/img/eyJmYWNlIjoxMywibm9zZSI6MTMsIm1vdXRoIjowLCJleWVzIjo1LCJleWVicm93cyI6MTUsImdsYXNzZXMiOjAsImhhaXIiOjUsImFjY2Vzc29yaWVzIjowLCJkZXRhaWxzIjowLCJiZWFyZCI6MTIsImZsaXAiOjAsImNvbG9yIjoiI2JmYmZiZiIsInNoYXBlIjoibm9uZSJ9)]
 
 ## Trainee Information Security Analyst
 
 🔒 Cybersecurity Undergraduate passionate about securing digital landscapes and defending against cyber threats. Adept at identifying vulnerabilities, implementing robust security solutions, and contributing to open-source cybersecurity projects. 
 
 ### 🔑 Key Skills
-Infrastructure
 
-- Cloud Providers (Azure)
-- DevOps Tools (Ansible)
-- Enterprise Services (Database | DNS | SMTP | Web)
-- Hypervisors (ESXi | VirtualBox)
-- Identity Providers (Active Directory | Azure Active Directory)
-- IP Masking (Proxies | Tor | VPN)
-- Protocol Analysis (WireShark)
-- Operating Systems (Windows | Linux)
-- Server Operating Systems (BSD | Linux | Windows)
-- Desktop Operating Systems (Linux | Mac OS | Windows)
-- Programming (C++)
-- Scripting Languages (Bash | PowerShell | Python)
+#### Security
+
 - Ethical Hacking
 - Firewalls (pfSense | Windows Firewall)
 - Incident Response and Remediation
@@ -27,8 +17,29 @@ Infrastructure
 - Security Assessment Tools (Burp Suite | Kali Linux | Metasploit | Nmap | Nessus)
 - Network Security
 - Web Application Security
-- Threat Detection and Mitigation
-- Penetration Testing
+
+#### Operating Systems
+
+- Server Operating Systems (Linux | Windows)
+- Desktop Operating Systems (Linux | Mac OS | Windows)
+
+#### Infrastructure
+
+- Cloud Providers (Azure)
+- DevOps Tools (Ansible)
+- Enterprise Services (Database | DNS | SMTP | Web)
+- Hypervisors (ESXi | VirtualBox)
+- Identity Providers (Active Directory | Azure Active Directory)
+
+#### Networking
+
+- IP Masking (Proxies | Tor | VPN)
+- Protocol Analysis (WireShark)
+
+#### Programming
+
+- Scripting Languages (Bash | PowerShell | Python)
+- Developing Languages (C | C++)
 
 
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/65621cef5145316d256f1447?variant=dark&roadmaps=cpp%2Cgolang%2Ccyber-security)](https://roadmap.sh)
