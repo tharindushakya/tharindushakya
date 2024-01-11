@@ -42,7 +42,7 @@
 - Developing Languages (C | C++)
 
 
-### 🛠️ Projects
+### 🛠️ Personal Projects
 
 [//]: # (#### Project Name 1)
 
