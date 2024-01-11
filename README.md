@@ -2,6 +2,8 @@
 
 <img src="./__images__/notion-avatar-1704953187150.svg" alt="avatar" width="200"/>
 
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/65621cef5145316d256f1447?variant=dark&roadmaps=cpp%2Cpython%2Ccyber-security)](https://roadmap.sh)
+
 ## Trainee Information Security Analyst
 
 🔒 Cybersecurity Undergraduate passionate about securing digital landscapes and defending against cyber threats. Adept at identifying vulnerabilities, implementing robust security solutions, and contributing to open-source cybersecurity projects. 
@@ -41,8 +43,6 @@
 - Scripting Languages (Bash | PowerShell | Python)
 - Developing Languages (C | C++)
 
-
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/65621cef5145316d256f1447?variant=dark&roadmaps=cpp%2Cpython%2Ccyber-security)](https://roadmap.sh)
 
 ### 🛠️ Projects
 
