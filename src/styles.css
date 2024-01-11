@@ -123,3 +123,5 @@ img.socialIcon {
   height: 30px;
   width: 30px;
 }
+
+img[alt="notion avatar"] { width: 200px; }

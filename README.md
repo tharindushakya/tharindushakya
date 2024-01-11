@@ -1,6 +1,5 @@
 # Tharindu Shakya
 
-![notion avatar](https://notion-avatar.vercel.app/api/img/eyJmYWNlIjoxNCwibm9zZSI6MTMsIm1vdXRoIjo5LCJleWVzIjo1LCJleWVicm93cyI6MTUsImdsYXNzZXMiOjAsImhhaXIiOjM0LCJhY2Nlc3NvcmllcyI6MCwiZGV0YWlscyI6MCwiYmVhcmQiOjE0LCJmbGlwIjowLCJjb2xvciI6InJnYmEoMjU1LCAwLCAwLCAwKSIsInNoYXBlIjoiY2lyY2xlIn0=)
 ![notion avatar](/__images__/notion-avatar-1704953187150.svg)
 
 ## Trainee Information Security Analyst
