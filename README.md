@@ -1,6 +1,6 @@
 # Tharindu Shakya
 
-![notion avatar](/__images__/notion-avatar-1704953187150.svg)
+![notion avatar](/__images__/notion-avatar-1704953187150.svg = 100x100)
 
 ## Trainee Information Security Analyst
 
