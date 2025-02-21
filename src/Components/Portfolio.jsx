@@ -67,6 +67,7 @@ const Portfolio = () => {
             style={{ height: "90%", width: "100%", objectFit: "cover" }}
             alt={imageAltText}
           />
+          <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=303130" style='border:none;'></iframe>
         </div>
         <div className="container">
           {projectList.map((project) => (
