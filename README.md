@@ -96,13 +96,15 @@
 <div align="center">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharindushakya&theme=gotham&layout=compact" alt="Top Languages" width="auto" />
 	<br/>
-	<img src="https://github-readme-stats-one-bice.vercel.app/api?username=tharindushakya&theme=gotham&show_icons=true&count_private=true&hide_border=false" alt="Stats" width="50%" />
-	<img src="https://streak-stats.demolab.com?user=tharindushakya&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="Streak" width="50%" />
-	<a href="https://github.com/tharindushakya">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=tharindushakya&theme=gotham&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20In%20All%20Repo" width="auto" alt="activity graph">
-    </a>
 </div>
+<p align="center">
+	<img src="https://github-readme-stats-one-bice.vercel.app/api?username=tharindushakya&theme=gotham&show_icons=true&count_private=true&hide_border=false" alt="Stats" width="auto" />
+	<img src="https://streak-stats.demolab.com?user=tharindushakya&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="Streak" width="auto" />
+</p>
 <h3 id="connect" align="center">Connect</h3>
+<a href="https://github.com/tharindushakya">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=tharindushakya&theme=gotham&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20In%20All%20Repo" width="auto" alt="activity graph">
+</a>
 
 <div align="center">
 	<a href="https://www.linkedin.com/in/tharindu-shakya-93775318b" title="LinkedIn">
