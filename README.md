@@ -108,11 +108,23 @@
 	<a href="https://www.linkedin.com/in/tharindu-shakya-93775318b" title="LinkedIn">
 		<img src="https://img.shields.io/badge/LinkedIn-TharinduShakya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
 	</a>
-	<a href="https://x.com/@Wtshakya" title="X / Twitter">
+	<a href="https://x.com/Wtshakya" title="X / Twitter">
 		<img src="https://img.shields.io/badge/X-@Wtshakya-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Badge" />
 	</a>
 	<a href="https://tharindushakya.github.io" title="Portfolio Website">
 		<img src="https://img.shields.io/badge/Portfolio-Website-0e75b6?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio Badge" />
+	</a>
+	<a href="https://bugcrowd.com/h/Mrspam" title="Bugcrowd" target="_blank">
+		<img src="https://img.shields.io/badge/Bugcrowd-Profile-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white" alt="Bugcrowd Profile" />
+	</a>
+	<a href="https://hackerone.com/bcmrspam" title="HackerOne" target="_blank">
+		<img src="https://img.shields.io/badge/HackerOne-Profile-494649?style=for-the-badge&logo=hackerone&logoColor=white" alt="HackerOne Profile" />
+	</a>
+	<a href="https://app.hackthebox.com/profile/KillerJ2" title="Hack The Box" target="_blank">
+		<img src="https://img.shields.io/badge/Hack%20The%20Box-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Hack The Box Profile" />
+	</a>
+	<a href="https://tryhackme.com/p/Shakya" title="TryHackMe" target="_blank">
+		<img src="https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" alt="TryHackMe Profile" />
 	</a>
 </div>
 
