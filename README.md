@@ -91,14 +91,8 @@
 </table>
 
 <h2>Sharing</h2>
-<h2 id="connect">Connect</h2>
 
-LinkedIn: [TharinduShakya](https://www.linkedin.com/in/tharindu-shakya-93775318b)
-
-Twitter: [@Wtshakya](https://x.com/@Wtshakya)
-
-Blog: [tharindushakya.github.io](https://tharindushakya.github.io)
-
+<hr>
 <div align="center">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharindushakya&theme=gotham&layout=compact" alt="Top Languages" width="auto" />
 	<br/>
@@ -107,6 +101,19 @@ Blog: [tharindushakya.github.io](https://tharindushakya.github.io)
 	<a href="https://github.com/tharindushakya">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=tharindushakya&theme=gotham&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20In%20All%20Repo" width="auto" alt="activity graph">
     </a>
+</div>
+<h3 id="connect" align="center">Connect</h3>
+
+<div align="center">
+	<a href="https://www.linkedin.com/in/tharindu-shakya-93775318b" title="LinkedIn">
+		<img src="https://img.shields.io/badge/LinkedIn-TharinduShakya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+	</a>
+	<a href="https://x.com/@Wtshakya" title="X / Twitter">
+		<img src="https://img.shields.io/badge/X-@Wtshakya-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Badge" />
+	</a>
+	<a href="https://tharindushakya.github.io" title="Portfolio Website">
+		<img src="https://img.shields.io/badge/Portfolio-Website-0e75b6?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio Badge" />
+	</a>
 </div>
 
 <div align="center">
