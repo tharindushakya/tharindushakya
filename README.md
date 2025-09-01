@@ -122,10 +122,7 @@ Cybersecurity undergraduate passionate about securing digital landscapes and def
 	<img src="https://img.shields.io/badge/Bash-333?logo=gnubash&logoColor=white" alt="Bash" />
 </div>
 <h2>Certifications</h2>
-
 <h2>Talks & Sharing</h2>
-<p></p>
-
 <h2 id="connect">Connect</h2>
 
 LinkedIn: [TharinduShakya](https://www.linkedin.com/in/tharindu-shakya-93775318b)
@@ -134,22 +131,21 @@ Twitter: [@Wtshakya](https://x.com/@Wtshakya)
 
 Blog: [tharindushakya.github.io](https://tharindushakya.github.io)
 
-<h2>Collaboration</h2>
-
-Open to: Open-source security tooling, defensive automation, lab building, documentation improvements. If you have an idea mixing security + scripting + automation, reach out.
-
-<h2 id="analytics">GitHub Analytics</h2>
-
 <div align="center">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharindushakya&theme=gotham&layout=compact" alt="Top Languages" height="170" />
 	<br/>
 	<img src="https://github-readme-stats-one-bice.vercel.app/api?username=tharindushakya&theme=gotham&show_icons=true&count_private=true&hide_border=false" alt="Stats" height="170" />
 	<img src="https://streak-stats.demolab.com?user=tharindushakya&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="Streak" height="170" />
+	<a href="https://github.com/tharindushakya">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=tharindushakya&theme=gotham&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20In%20All%20Repo" width="95%" alt="activity graph">
+    </a>
 </div>
 
-
 <div align="center">
+	<h2>Collaboration</h2>
+	Open to: Open-source security tooling, defensive automation, lab building, documentation improvements. If you have an idea mixing security + scripting + automation, reach out.
 	<hr/>
-	<strong>Crafted with curiosity & continuous learning.</strong><br/>
+	<strong>Crafted with curiosity & continuous learning.</strong>
+	<br/>
 	⭐ Star a repo if it helps you!
 </div>
