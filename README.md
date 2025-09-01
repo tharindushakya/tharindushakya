@@ -142,6 +142,7 @@ Open to: Open-source security tooling, defensive automation, lab building, docum
 
 <div align="center">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharindushakya&theme=gotham&layout=compact" alt="Top Languages" height="170" />
+	<br/>
 	<img src="https://github-readme-stats-one-bice.vercel.app/api?username=tharindushakya&theme=gotham&show_icons=true&count_private=true&hide_border=false" alt="Stats" height="170" />
 	<img src="https://streak-stats.demolab.com?user=tharindushakya&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="Streak" height="170" />
 </div>
