@@ -22,53 +22,83 @@ Cybersecurity undergraduate passionate about securing digital landscapes and def
 
 ### Security
 
-Ethical Hacking · Firewalls (pfSense, Windows Firewall) · Incident Response · IDS (Snort) · Security Assessment (Burp Suite, Kali Linux, Metasploit, Nmap, Nessus) · Web App Security · Vulnerability Analysis
+- Offensive / Assessment:
+	- Ethical Hacking, Web Application Security, Vulnerability Analysis
+	- Tools: Burp Suite, Kali Linux, Metasploit, Nmap, Nessus
+- Defensive / Blue Team:
+	- Incident Response, Log Review, Playbook Drafting
+	- IDS / IPS: Snort (rule tuning & alert triage)
+- Hardening & Controls:
+	- Firewall Policy (pfSense, Windows Firewall), Service Exposure Reduction
+	- Secure Configuration Baselines & Patch Hygiene
 
 ### Operating Systems
 
-Servers (Linux, Windows) · Desktops (Linux, macOS, Windows)
+- Server: Linux (Debian / Ubuntu), Windows Server
+- Desktop: Linux, macOS, Windows
+- Virtualization / Hypervisors: ESXi, VirtualBox
+- Lab Management: Snapshot strategy, isolated test networks
 
 ### Infrastructure & Platforms
 
-Azure · Ansible · Enterprise Services (DNS, SMTP, Web, Database) · ESXi · VirtualBox · Identity (Active Directory, Azure AD)
+- Cloud: Azure (Identity, RBAC basics, Security Center exposure)
+- Automation: Ansible (playbook drafting, hardening tasks)
+- Identity: Active Directory, Azure AD (user / group / basic policy management)
+- Enterprise Services: DNS, SMTP, Web, Database (deployment & basic securing)
 
 ### Networking
 
-Packet / Protocol Analysis (Wireshark) · IP Anonymization (Proxies, Tor, VPN)
+- Packet & Protocol Analysis: Wireshark (filters, flow tracing)
+- Threat Surface Mapping: Enumeration & Service Discovery
+- Privacy & Anonymity: Proxies, Tor, VPN usage models
+- Segmentation Concepts: VLAN / subnet baseline design (lab level)
 
 ### Programming & Scripting
 
-Bash · PowerShell · Python · C · C++
+- Scripting: Bash, PowerShell, Python (automation, enumeration, parsing)
+- Compiled: C, C++ (foundational understanding)
+- Security Automation Focus: recon scripts, log parsers, baseline hardening helpers
 
-## Tool Stack (Selection)
+## Tool Stack
 
-Linux | Windows | Azure | Snort | Wireshark | Burp Suite | Metasploit | Nmap | Ansible | PowerShell | Python | C | C++ | Bash
+| Category | Tools / Platforms |
+| -------- | ----------------- |
+| Offensive & Assessment | Burp Suite · Metasploit · Nmap · Nessus · Kali Linux |
+| Defensive / Monitoring | Snort · Log Analysis (Windows Event Logs) |
+| Networking | Wireshark · pfSense |
+| Cloud & Infra | Azure · Ansible · ESXi · VirtualBox |
+| Identity & Services | Active Directory · Azure AD · DNS · SMTP · Web · Database |
+| Scripting & Programming | Python · Bash · PowerShell · C · C++ |
 
-## Personal Projects (Highlights)
+### Badges
 
-| Project | Focus | Stack / Tools | Status |
-| ------- | ----- | ------------- | ------ |
-| Recon Automation Toolkit | Enumerates targets & aggregates findings | Python, Nmap, Bash | In Development |
-| Mini SOC Lab | Simulated detection & response environment | Snort, ELK, Windows Event Logs | Expanding |
-| Secure Service Hardening Scripts | Baseline hardening for Linux servers | Bash, Ansible | Draft |
-
-*More projects will appear here as repositories are made public.*
+![Linux](https://img.shields.io/badge/Linux-333?logo=linux&logoColor=FCC624)
+![Windows](https://img.shields.io/badge/Windows-333?logo=windows&logoColor=0078D6)
+![Azure](https://img.shields.io/badge/Azure-333?logo=microsoftazure&logoColor=0E75B6)
+![Snort](https://img.shields.io/badge/Snort-333?logo=snort&logoColor=F03C2E)
+![Wireshark](https://img.shields.io/badge/Wireshark-333?logo=wireshark&logoColor=1679A7)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-333?logo=burpsuite&logoColor=FF6633)
+![Metasploit](https://img.shields.io/badge/Metasploit-333?logo=metasploit&logoColor=1E90FF)
+![Nmap](https://img.shields.io/badge/Nmap-333?logo=linux&logoColor=lightgrey)
+![Nessus](https://img.shields.io/badge/Nessus-333?logo=tenable&logoColor=45B8E6)
+![Ansible](https://img.shields.io/badge/Ansible-333?logo=ansible&logoColor=EE0000)
+![PowerShell](https://img.shields.io/badge/PowerShell-333?logo=powershell&logoColor=5391FE)
+![Python](https://img.shields.io/badge/Python-333?logo=python&logoColor=FFD43B)
+![C](https://img.shields.io/badge/C-333?logo=c&logoColor=A8B9CC)
+![C++](https://img.shields.io/badge/C++-333?logo=c%2B%2B&logoColor=00599C)
+![Bash](https://img.shields.io/badge/Bash-333?logo=gnubash&logoColor=white)
 
 ## Certifications (Target / Earned)
 
-| Domain | Status |
-| ------ | ------ |
-| AZ-900 (Azure Fundamentals) | In Progress |
-| Security+ | Planned |
-| SC-200 (Security Operations Analyst) | Planned |
-
 ## Talks & Sharing
-
-Drafting material on: Best Practices in Web Application Security & Intro to Threat Hunting Playbooks.
 
 ## Connect
 
-LinkedIn: [TharinduShakya](https://www.linkedin.com/in/tharindu-shakya-93775318b) · Twitter: [@Wtshakya](https://twitter.com/@Wtshakya) · Blog: [tharinduwarnapura.com](https://tharinduwarnapura.com)
+LinkedIn: [TharinduShakya](https://www.linkedin.com/in/tharindu-shakya-93775318b)
+
+Twitter: [@Wtshakya](https://x.com/@Wtshakya)
+
+Blog: [tharindushakya.github.io](https://tharindushakya.github.io)
 
 ## Collaboration
 
@@ -76,11 +106,9 @@ Open to: Open-source security tooling, defensive automation, lab building, docum
 
 ## GitHub Analytics
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tharindushakya&theme=gotham&layout=compact)
-![Stats](https://github-readme-stats-one-bice.vercel.app/api?username=tharindushakya&theme=gotham&show_icons=true&count_private=true&hide_border=false)
-![Streak](https://streak-stats.demolab.com?user=tharindushakya&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tharindushakya&theme=gotham&hide_border=false&hide_title=false&area=true&custom_title=Contribution%20Graph)
+| Top Languages | Stats | Streak |
+| ------------- | ----- | ------ |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tharindushakya&theme=gotham&layout=compact) | ![Stats](https://github-readme-stats-one-bice.vercel.app/api?username=tharindushakya&theme=gotham&show_icons=true&count_private=true&hide_border=false) | ![Streak](https://streak-stats.demolab.com?user=tharindushakya&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D) |
 
 ---
 
