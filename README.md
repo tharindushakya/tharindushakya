@@ -2,12 +2,14 @@
 
 Cybersecurity Undergraduate | Trainee Information Security Analyst
 
-![Profile views](https://komarev.com/ghpvc/?username=tharindushakya&label=Profile%20views&color=0e75b6&style=flat)
-![Focus](https://img.shields.io/badge/Focus-Cybersecurity-0e75b6)
-![Status](https://img.shields.io/badge/Learning-Everyday-success)
-
-![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=tharindushakya&data=repositories,stars,commits&theme=dark)
-
+<p align="center"> 
+	![Profile views](https://komarev.com/ghpvc/?username=tharindushakya&label=Profile%20views&color=0e75b6&style=flat)
+	![Focus](https://img.shields.io/badge/Focus-Cybersecurity-0e75b6)
+	![Status](https://img.shields.io/badge/Learning-Everyday-success)
+</p>
+<p align="center"> 
+	![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=tharindushakya&data=repositories,stars,commits&theme=dark)
+</p>
 ## About Me
 
 Cybersecurity undergraduate passionate about securing digital landscapes and defending against evolving threats. I enjoy vulnerability analysis, blue & purple teaming, and building tooling that automates repetitive security tasks.
@@ -71,23 +73,23 @@ Cybersecurity undergraduate passionate about securing digital landscapes and def
 | Scripting & Programming | Python · Bash · PowerShell · C · C++ |
 
 ### Badges
-
-![Linux](https://img.shields.io/badge/Linux-333?logo=linux&logoColor=FCC624)
-![Windows](https://img.shields.io/badge/Windows-333?logo=windows&logoColor=0078D6)
-![Azure](https://img.shields.io/badge/Azure-333?logo=microsoftazure&logoColor=0E75B6)
-![Snort](https://img.shields.io/badge/Snort-333?logo=snort&logoColor=F03C2E)
-![Wireshark](https://img.shields.io/badge/Wireshark-333?logo=wireshark&logoColor=1679A7)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-333?logo=burpsuite&logoColor=FF6633)
-![Metasploit](https://img.shields.io/badge/Metasploit-333?logo=metasploit&logoColor=1E90FF)
-![Nmap](https://img.shields.io/badge/Nmap-333?logo=linux&logoColor=lightgrey)
-![Nessus](https://img.shields.io/badge/Nessus-333?logo=tenable&logoColor=45B8E6)
-![Ansible](https://img.shields.io/badge/Ansible-333?logo=ansible&logoColor=EE0000)
-![PowerShell](https://img.shields.io/badge/PowerShell-333?logo=powershell&logoColor=5391FE)
-![Python](https://img.shields.io/badge/Python-333?logo=python&logoColor=FFD43B)
-![C](https://img.shields.io/badge/C-333?logo=c&logoColor=A8B9CC)
-![C++](https://img.shields.io/badge/C++-333?logo=c%2B%2B&logoColor=00599C)
-![Bash](https://img.shields.io/badge/Bash-333?logo=gnubash&logoColor=white)
-
+<p align="center"> 
+	![Linux](https://img.shields.io/badge/Linux-333?logo=linux&logoColor=FCC624)
+	![Windows](https://img.shields.io/badge/Windows-333?logo=windows&logoColor=0078D6)
+	![Azure](https://img.shields.io/badge/Azure-333?logo=microsoftazure&logoColor=0E75B6)
+	![Snort](https://img.shields.io/badge/Snort-333?logo=snort&logoColor=F03C2E)
+	![Wireshark](https://img.shields.io/badge/Wireshark-333?logo=wireshark&logoColor=1679A7)
+	![Burp Suite](https://img.shields.io/badge/Burp_Suite-333?logo=burpsuite&logoColor=FF6633)
+	![Metasploit](https://img.shields.io/badge/Metasploit-333?logo=metasploit&logoColor=1E90FF)
+	![Nmap](https://img.shields.io/badge/Nmap-333?logo=linux&logoColor=lightgrey)
+	![Nessus](https://img.shields.io/badge/Nessus-333?logo=tenable&logoColor=45B8E6)
+	![Ansible](https://img.shields.io/badge/Ansible-333?logo=ansible&logoColor=EE0000)
+	![PowerShell](https://img.shields.io/badge/PowerShell-333?logo=powershell&logoColor=5391FE)
+	![Python](https://img.shields.io/badge/Python-333?logo=python&logoColor=FFD43B)
+	![C](https://img.shields.io/badge/C-333?logo=c&logoColor=A8B9CC)
+	![C++](https://img.shields.io/badge/C++-333?logo=c%2B%2B&logoColor=00599C)
+	![Bash](https://img.shields.io/badge/Bash-333?logo=gnubash&logoColor=white)
+</p>
 ## Certifications (Target / Earned)
 
 ## Talks & Sharing
@@ -106,10 +108,10 @@ Open to: Open-source security tooling, defensive automation, lab building, docum
 
 ## GitHub Analytics
 
-| Top Languages | Stats | Streak |
-| ------------- | ----- | ------ |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tharindushakya&theme=gotham&layout=compact) | ![Stats](https://github-readme-stats-one-bice.vercel.app/api?username=tharindushakya&theme=gotham&show_icons=true&count_private=true&hide_border=false) | ![Streak](https://streak-stats.demolab.com?user=tharindushakya&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D) |
 
----
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tharindushakya&theme=gotham&layout=compact) 
+![Stats](https://github-readme-stats-one-bice.vercel.app/api?username=tharindushakya&theme=gotham&show_icons=true&count_private=true&hide_border=false) 
+![Streak](https://streak-stats.demolab.com?user=tharindushakya&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)
+
 
 Crafted with curiosity & continuous learning. ⭐ Star a repo if it helps you!
