@@ -45,7 +45,7 @@
 - ⚡ Fun fact: I treat every home lab like a purple-team scenario
 - 📫 Email: [tharindu.github@gmail.com](mailto:tharindu.github@gmail.com)
 
-<h2 id="core-skills">Core Skill Domains</h2>
+<h2 id="core-skills">Skill Domain</h2>
 
 <table>
 	<tr>
@@ -90,8 +90,7 @@
 	</tr>
 </table>
 
-<h2>Certifications</h2>
-<h2>Talks & Sharing</h2>
+<h2>Sharing</h2>
 <h2 id="connect">Connect</h2>
 
 LinkedIn: [TharinduShakya](https://www.linkedin.com/in/tharindu-shakya-93775318b)
